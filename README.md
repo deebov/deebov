@@ -2,10 +2,9 @@
 
 I like (coffee) to make products that give users a great UX. I like to use React (Native), TypeScript, Redux and GraphQL as my main tech stack. 
 
-If you're interested in my work or just want to say hi, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Making the web accessible
+- 🌱 I’m currently learning UI/UX
 - 👯 I’m looking to collaborate on intersting/unsual projects
 - 🤔 I’m looking for help with React, TypeScript and JavaScript
 - 💬 Ask me about React, TypeScript and JavaScript
