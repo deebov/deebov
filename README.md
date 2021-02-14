@@ -8,8 +8,6 @@ I like (coffee) to make products that give users a great UX. I like to use React
 - 👯 I’m looking to collaborate on intersting/unsual projects
 - 🤔 I’m looking for help with React, TypeScript and JavaScript
 - 💬 Ask me about React, TypeScript and JavaScript
-- 📫 How to reach me: deebov@yandex.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I haven't watched any episode of "Game of Thrones"
 
 
