@@ -5,7 +5,7 @@ I like (coffee) to make products that give users a great UX. I like to use React
 
 - 🔭 I’m currently working on Making the web accessible
 - 🌱 I’m currently learning UI/UX
-- 👯 I’m looking to collaborate on intersting/unsual projects
+- 👯 I’m looking to collaborate on interesting/unsual projects
 - 🤔 I’m looking for help with React, TypeScript and JavaScript
 - 💬 Ask me about React, TypeScript and JavaScript
 - ⚡ Fun fact: I haven't watched any episode of "Game of Thrones"
