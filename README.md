@@ -1,4 +1,4 @@
-### Hey, nice to see you here😉
+### Hey, nice to see you here 😉
 
 I like (coffee) to make products that give users a great UX. I like to use React (Native), TypeScript, Redux and GraphQL as my main tech stack. 
 
